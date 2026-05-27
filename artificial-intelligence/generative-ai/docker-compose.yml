@@ -1,0 +1,14 @@
+# REF-009-LOCAL-DEV-DEPLOYMENT
+services:
+  postgres:
+    image: postgres:17.5-bullseye
+    container_name: postgres
+    ports:
+      - "5432:5432"
+    env_file:
+      - backend_for_frontend/.env
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:

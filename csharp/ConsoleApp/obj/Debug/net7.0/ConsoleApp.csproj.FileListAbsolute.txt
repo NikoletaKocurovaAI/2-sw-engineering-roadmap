@@ -1,0 +1,15 @@
+/Users/nikoletakocurova/Documents/brain-locatio/SeeSharp/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/Users/nikoletakocurova/Documents/brain-locatio/SeeSharp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/Users/nikoletakocurova/Documents/brain-locatio/SeeSharp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/Users/nikoletakocurova/Documents/brain-locatio/SeeSharp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/Users/nikoletakocurova/Documents/brain-locatio/SeeSharp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/Users/nikoletakocurova/Documents/brain-locatio/SeeSharp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/nikoletakocurova/Documents/brain-locatio/SeeSharp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikoletakocurova/Documents/brain-locatio/SeeSharp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/nikoletakocurova/Documents/brain-locatio/SeeSharp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/nikoletakocurova/Documents/brain-locatio/SeeSharp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/nikoletakocurova/Documents/brain-locatio/SeeSharp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/Users/nikoletakocurova/Documents/brain-locatio/SeeSharp/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/Users/nikoletakocurova/Documents/brain-locatio/SeeSharp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/Users/nikoletakocurova/Documents/brain-locatio/SeeSharp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/nikoletakocurova/Documents/brain-locatio/SeeSharp/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
